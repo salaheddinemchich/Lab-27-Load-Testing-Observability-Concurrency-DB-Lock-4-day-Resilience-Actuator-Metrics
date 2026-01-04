@@ -28,7 +28,7 @@ Ce projet implémente une architecture microservices composée de :
 ```
 
 ## 📦 Demo
-<img width="943" height="378" alt="image-8" src="https://github.com/user-attachments/assets/850f2299-db61-4768-bcf2-83efe965a6ce" />
+
 <img width="1363" height="728" alt="image-9" src="https://github.com/user-attachments/assets/e77f24bf-faef-415f-a2b4-8136c375502a" />
 <img width="1419" height="777" alt="image-2" src="https://github.com/user-attachments/assets/55001959-270b-4a29-9bc9-a9ae65128525" />
 
