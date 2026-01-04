@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    # "mysql" est le nom du service dans docker-compose
+    url: jdbc:mysql://mysql:3306/bookdb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    username: bookuser
+    password: bookpass
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+pricing:
+  base-url: http://pricing-service:8082
