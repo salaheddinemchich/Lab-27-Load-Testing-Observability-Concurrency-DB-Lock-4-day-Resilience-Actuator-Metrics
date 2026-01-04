@@ -28,18 +28,11 @@ Ce projet implémente une architecture microservices composée de :
 ```
 
 ## 📦 Demo
-![alt text](image-5.png)
-![alt text](image-6.png)
-### Partie C — Test de charge : 50 emprunts en parallèle (Bash)
-![alt text](image-7.png)
-![alt text](image-8.png)
-### Partie E — Vérifier “Stock jamais négatif” (preuve de verrou DB)
-![alt text](image-9.png)
-### Partie F — Résilience en charge : pricing down → fallback
-![alt text](image-10.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
-![alt text](image-13.png)
+<img width="943" height="378" alt="image-8" src="https://github.com/user-attachments/assets/850f2299-db61-4768-bcf2-83efe965a6ce" />
+<img width="1363" height="728" alt="image-9" src="https://github.com/user-attachments/assets/e77f24bf-faef-415f-a2b4-8136c375502a" />
+<img width="1419" height="777" alt="image-2" src="https://github.com/user-attachments/assets/55001959-270b-4a29-9bc9-a9ae65128525" />
+
+
 ### Book Service
 - **Ports** : 8081, 8083, 8084 (3 instances)
 - **Base de données** : MySQL (bookdb)
